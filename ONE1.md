@@ -2,7 +2,10 @@
 Jerie Corales
 
 # Dream
-Presidentgit add .
+President
 
 # GOAL
 maging macho dancer
+
+# GOAL NUM2
+crush
